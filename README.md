@@ -1,5 +1,4 @@
 # Code 201 Reading Notes
-My reading notes for code 201 at ASAC
 
 ![notes](https://c0.wallpaperflare.com/preview/107/714/504/interior-office-workspace-computer-thumbnail.jpg)
 
