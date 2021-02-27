@@ -97,8 +97,55 @@ _**Many**_ tags can be used in HTML5 for making the page structure and styling i
 
 _______________________________________________
 
-# **Javascript**
+# **Javascript: The ABC of programing**
 
 ![js](https://res.cloudinary.com/practicaldev/image/fetch/s--ohpJlve1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://res.cloudinary.com/drquzbncy/image/upload/v1586605549/javascript_banner_sxve2l.jpg)
 
-....
+## **A: [ What is a script? ]**
+
+_**A**_ script is a series of instructions that a computer can follow step-by-step to achieve a goal.
+
+_**To**_ write a script, you need to first state your goal and then list the tasks that need to be completed in order to achieve it.
+
+_**Start**_ with the big picture of what you want to achieve, and break that down into smaller steps:
+
+1. Define the goal.
+2. Design the script.
+3. Code each step.
+
+## **B: [ How do computers fit in with the world around them? ]**
+
+_**Computers**_ creat models of the world using data. Programmers make these models using data. That is not as strange or as scary as it sounds because the data is all the computer needs in order to follow the instructions you give it to carry out its tasks.
+### **Objects and properties**
+_**Objects**_ (things): In computer programming, each physical thing in
+the world can be represented as an object.
+
+_**Properties**_ (characteristics): Each property has a name and a value, and each of these name/value pairs tells you something about each individual instance of the object. 
+
+**PUTTING IT ALL TOGETHER!**
+Computers use data to create models of things in the real world. The events, methods, and properties of an object all relate to each other: Events can trigger methods, and methods can retrieve or update an object's properties. 
+
+## **B: [ How do I write a script for a web page? ]**
+
+![code](https://miro.medium.com/max/4000/0*uyDW525Eoc1yoSil) 
+
+### **How HTML, CSS and Javascript work together?**
+
+1. Content layer: . html files This is where the content of the page lives. The HTML gives the page structure and adds semantics.
+
+2. Presentation layer: . css files The CSS enhances the HTML page with rules that state how the HTML content is presented (backgrounds, borders, box dimensions, colors, fonts, etc.).
+
+3. Behavior layer: .js files This is where we can change how the page behaves, adding interactivity. We will aim to keep as much of our JavaScript as possible in separate files.
+
+### **Creating a Javascript:**
+
+_**JavaScript**_ is written in plain text, just like HTML and CSS, so you do not need any new tools to write a script. This example adds a greeting into an HTML page. The greeting changes depending on the time of day. 
+ 
+ ### **Linking to a Javascript file from an HTML page:**
+
+_**When**_ you want to use JavaScript with a web page, you use the HTML < script > element to tell the browser it is coming across a script. Its s re attribute tells people where the JavaScript file is stored. 
+
+______________________________________
+### **Sources:**
+* HTML & CSS Design and Build Websites - By: Jon Ducket
+* Javascript and Jquery Interactive - By: Jon Ducket
