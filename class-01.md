@@ -37,7 +37,7 @@ means you will also be able to
 understand the earlier versions
 of them.
 
-![html](https://www.wikitechy.com/step-by-step-html-tutorials/img/html-images/basic-structure-of-html.png)
+![html](https://html.com/wp-content/uploads/html-tutorial-beginners-header.webp)
 
 _____________________________________________________
 
