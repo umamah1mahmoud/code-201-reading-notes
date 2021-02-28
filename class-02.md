@@ -1,6 +1,6 @@
 # **[ Digging in HTML, CSS and JS! ]**
 
-### In this reading note there are four main topics. Two of which concerened with HTML and CSS (Text in HTML and Introducing CSS). The other two will be about Javascript (Basic Javascript instructions and Decisions and Loops).
+### In this reading note there are four main topics. Two of which concerned with HTML and CSS (Text in HTML and Introducing CSS). The other two will be about JavaScript (Basic JavaScript instructions and Decisions and Loops).
 
 <_**Naturally, we'll start with HTML and CSS. Here we go!**_>
 
@@ -39,14 +39,14 @@ a paragraph.
 
 - **Abbreviations and Acronyms:** If you use an abbreviation or an acronym, then the < abbr> element can be used. A title attribute on the opening tag is used to specify the full term.
 
-#### Here's a quick quiz for you! Can you guess how the outcome of this code would look like? (You can also try to write it to see it happenening ;) )
+#### Here's a quick quiz for you! Can you guess how the outcome of this code would look like? (You can also try to write it to see it happening ;) )
 ![quiz](https://steemitimages.com/DQmUdMF6FqGiZCCyzTSB9su9bYrWVFRx1SvgezjR5u5wahZ/Example.png)
 
 <hr/>
 
 ## **#2 [ Introducing CSS ]**
 
-**1. What CSS does:** So, easilt put CSS allows you to create rules that control the way that each individual box (and the contents of that box) is presented. 
+**1. What CSS does:** So, easily put CSS allows you to create rules that control the way that each individual box (and the contents of that box) is presented. 
 
 **2. How CSS works:**
 CSS works by associating rules with HTML elements. These rules govern how the content of specified elements should be displayed. A CSS rule contains two parts: a selector and a declaration. As shown below:
@@ -65,7 +65,7 @@ There are three main ways of applying CSS to HTML: inner, internal and external.
 
 ![js](https://stackify.com/wp-content/uploads/2018/10/JavaScript-Tutorials-for-Beginners-881x441.jpg)
 
-## **#3 [ Basic Javascript Instructions ]**
+## **#3 [ Basic JavaScript Instructions ]**
 - **Statements:** A script is a series of instructions that a computer can follow one-by-one. Each individual instruction or step is known as a statement. Statements should end with a semicolon. <br/> JavaScript is case sensitive so userName means
 something different to UserName or USERNAME.
 
@@ -82,7 +82,7 @@ something different to UserName or USERNAME.
  2. String data type (that is any character you can see on your keyboard put between quotation marks as, “Student” “6” “!”).
  3. Boolean data type (It can only have one off two values, true or false).
 
-_**Now**_, Back to variables. There are some important rules to naming variables. I'll count for you part of them. Based on the book _**Javascript and jQuery Interactive - By: Jon Ducket**_:
+_**Now**_, Back to variables. There are some important rules to naming variables. I'll count for you part of them. Based on the book _**JavaScript and jQuery Interactive - By: Jon Ducket**_:
 1. The name must begin with a letter, dollar sign ($),or an underscore (_). It must not start with a number. 
 2. You cannot use keywords or reserved words. Keywords are special words that tell the interpreter to do something. For example, var is a keyword used to declare a variable. Reserved words are ones that may be used in a future version of JavaScript.
 3. Use a name that describes the kind of information that the variable stores. For example, fi rstName might be used to store a person's first name, l astNarne for their last name, and age for their age.
@@ -117,10 +117,10 @@ Example: <br/>
 
 <hr/>
 
-#### My dear reader, that was it for today's notes. I know it's getting more in details, maybe more complicated. But it should be easier and more clear by practice. I wish I could be as breif as I could -it's really not as easy as it seems- and as informative as I could. Please do not hesitate taking a look on my resources. As they are two of the most important coding books these days:
+#### My dear reader, that was it for today's notes. I know it's getting more in details, maybe more complicated. But it should be easier and more clear by practice. I wish I could be as brief as I could -it's really not as easy as it seems- and as informative as I could. Please do not hesitate taking a look on my resources. As they are two of the most important coding books these days:
 
 * HTML & CSS Design and Build Websites - By: Jon Ducket
-* Javascript and Jquery Interactive - By: Jon Ducket
+* JavaScript and jQuery Interactive - By: Jon Ducket
 
 
 
