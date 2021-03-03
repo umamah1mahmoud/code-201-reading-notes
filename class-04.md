@@ -61,7 +61,7 @@ Now, let's move on to controlling the position of an element..
 
 ### **Controlling the position of elements:**
 
-CSS has the following positioning schemes that allow you to control the layout of a page: normal flow, relative positioning, and absolute positioning. You specify the positioning scheme using the positionproperty in CSS. You can also float elements using the float property.
+CSS has the following positioning schemes that allow you to control the layout of a page: normal flow, relative positioning, and absolute positioning. You specify the positioning scheme using the position property in CSS. You can also float elements using the float property.
 
 ![pos](https://www.internetingishard.com/html-and-css/advanced-positioning/css-positioning-schemes-790d5b.png)
 
@@ -73,7 +73,7 @@ CSS has the following positioning schemes that allow you to control the layout o
 #### (Functions, Methods & Objects)
 Browsers require very detailed instructions about what we want them t o do. Therefore, complex scripts can run to hundreds (even thousands) of lines. Programmers use functions, methods, and objects to organize their code. 
 
-**1. Functions:** Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of st atements).
+**Functions:** Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of statements).
 
 ![function](https://res.cloudinary.com/practicaldev/image/fetch/s--pClJgvrv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/mt2jlra7jd5gdgl8up8y.png)
 
