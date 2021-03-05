@@ -9,7 +9,7 @@
 
 <hr/>
 
-## **#1 [Images]**
+## **#1 [ Images ]**
 #### (Adding Images to Pages, The Right Format, Optimizing Images for The Web)
 <br/>
 
@@ -62,7 +62,7 @@ Photographs are best saved as JPEGs; illustrations or logos that use flat colors
 
 <hr/>
 
-## **#2 [Colors]**
+## **#2 [ Color ]**
 #### (How to specify colors, Color terminology and contrast, Background color)
 <br/>
 
@@ -102,8 +102,108 @@ The hsl color property has been introduced in CSS3 as an alternative way to spec
 
 <hr/>
 
-## **#2 [Text]**
+## **#3 [ Text ]**
 #### (Size and typeface of text, Bold, italics, capitals, underlines and Spacing between lines, words, and letters)
 <br/>
 
-![text](https://cdn4.iconfinder.com/data/icons/unigrid-design/60/022_text_field_textfield_input_cursor-512.png)
+![text](https://lh3.googleusercontent.com/proxy/kqr6o3wpIqujhXaS3b9sAwjIDJDadZUm6Hx6uL3TdcZSUfz6Ro9w8pI1F3j1wYvGp4nB1XOM1L84_OnE)
+
+The properties that allow you to control the appearance of text can be split into two groups:
+
+* Those that directly affect the font and its appearance
+(including the typeface, whether it is regular, bold or italic, and the size of the text).
+
+* Those that would have the same effect on text no matter what font you were using (including the color of text and the spacing between words and letters).
+
+<br/>
+
+### **Choosing a Typeface for your Website:**
+When choosing a typeface, it is important to understand that a browser will usually only display it if it's installed on that user's computer. <br/> For Example, If you design on a Mac, it is important to check what the typefaces look like on a PC because PCs can render type less smoothly. But if you design on a PC, then it should look fine on a Mac.
+
+*Now let's talk some tips and tricks..*
+
+### **A. Size of Type:**
+The font-size property enables you to specify a size for the font. There are several ways to specify the size of a font. Most common are in the next example showing their names and their output:
+
+![sizeText](https://i.stack.imgur.com/wIts2.gif)
+
+* You may have noticed that programs such as
+Word, Photoshop and InDesign offer the same
+sizes of text. This is because they are set
+according to a scale or ratio that
+was developed by European
+typographers in the sixteenth
+century.
+
+* Recently, some web designers have started to leave the body text at the default size of 16 pixels and adjust the other font sizes using a scale that keeps the relative proportions of this one.
+
+### **B. Bold, Italics, Capitals and Underline:**
+
+![bItUnd](https://d33v4339jhl8k0.cloudfront.net/docs/assets/588089eddd8c8e484b24e90a/images/5bb4b8a62c7d3a04dd5b3d52/file-GCRiCH0OJW.png)
+
+There isn't much to explain about those famous tools, so let's get into the real thing.. Coding!
+
+1. **Bold**:
+
+       p.thick {
+       font-weight: bold;
+       }
+
+2. *Italic*:
+
+        p.a {
+        font-style: normal;
+        }
+
+3. CAPITALS: (Or to small letters by changing uppercase to lowercase).
+
+        div.a {
+        text-transform: uppercase;
+        }
+
+4. Underline:
+
+        h3 {
+        text-decoration: underline;
+
+### **C. Spacing Between Lines:**
+
+1. l e t t e r  S p a c i n g:
+
+        h1 {
+        letter-spacing: 3px;
+        }
+
+2.  Word  Spacing:
+
+        p {
+        word-spacing: 30px;
+        }
+
+## Note:
+There are of course so many other properties and fun codes, try to search for more and have fun!
+
+<hr/>
+
+## **#4 [ Extra Article: Image Formats ]**
+#### (JPEG vs PNG vs GIF — which image format to use and when?)
+<br/>
+
+There are hundreds of image formats available each with a specific use case. In this post, we would only be looking at the three most commonly used image formats in websites and mobile applications — JPEG, PNG and GIF.
+
+![imageFormats](https://ignitiondrawing.files.wordpress.com/2018/05/jpg-png-gif.gif?w=379)
+
+* You have a clue now from the previous **GIF** on what differences they have but more explanation will follow..
+
+Use JPEG format for all images that contain a natural scene or photograph where variation in colour and intensity is smooth. Use PNG format for any image that needs transparency or for images with text & objects with sharp contrast edges like logos. Use GIF format for images that contain animations.
+
+<hr/>
+
+That was all for today's notes. Today I used multiple sources two of which were provided by our instructors and one that I found really helpful in explaining how important images are and more effective. I will list them hoping you'll find them as handy as I found them:
+
+* First with the article I added, [Text vs. Images: Which Content Format is Effective?](https://www.easel.ly/blog/text-vs-images-which-content-format-effective/)
+
+Other sources:
+
+* HTML & CSS Design and Build Websites - By: Jon Ducket.
+* [JPEG vs PNG vs GIF — which image format to use and when?](https://blog.imagekit.io/jpeg-vs-png-vs-gif-which-image-format-to-use-and-when-c8913ae3e01d)
