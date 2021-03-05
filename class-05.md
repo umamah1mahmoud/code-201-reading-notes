@@ -1,7 +1,7 @@
 # **[ Images, Color, Text ]**
 ![multimedia](https://img.freepik.com/free-vector/illustration-technology-vector_53876-5319.jpg?size=626&ext=jpg)
 
-**Today we're talking about some multimedia elements. So why don't we start by defining what exatly is "multimedia"..**
+**Today we're talking about some multimedia elements. So why don't we start by defining what exactly is "multimedia"..**
 
 **Multimedia** is a form of communication that combines different content forms such as text, audio, images, animations, or video into a single presentation, in contrast to traditional mass media, such as printed material or audio recordings. Popular examples of multimedia include video podcasts, audio slideshows, animated shows, and movies. (According to [wikipedia](https://en.wikipedia.org/wiki/Multimedia))
 
@@ -27,14 +27,14 @@ The first step of adding images is choosing them on design and logical bases; im
 * Be relevant.
 * Convey information.
 * Convey the right mood.
-* Be instantly recognisable.
+* Be instantly recognizable.
 * Fit the color palette.
 
 Now, to our main questio.. How to?
 It's needless to say at this point that we need to add a code so, what is it?
 
 
-    <img src="https://cdn.wallpapersafari.com/23/52/QVj1oK.jpg" alt="An abstarct design" title="Modern geometric abstractive design. In blue and orange." />
+    <img src="https://cdn.wallpapersafari.com/23/52/QVj1oK.jpg" alt="An abstract design" title="Modern geometric abstractive design. In blue and orange." />
 
 The output of the image in this code should be:
 
@@ -42,10 +42,10 @@ The output of the image in this code should be:
 
 <br/>
 
-We added an image, what's next? manipulating it of course! and here comes our dear _**CSS**_ . Either inline, internal or extrnal.
+We added an image, what's next? manipulating it of course! and here comes our dear _**CSS**_ . Either inline, internal or external.
 However, there are some simple specifications that can be added to the image code after the source. Like the next example of controlling its dimensions:
 
-    <img src="https://cdn.wallpapersafari.com/23/52/QVj1oK.jpg" alt="An abstarct design" width="600" height="450" />
+    <img src="https://cdn.wallpapersafari.com/23/52/QVj1oK.jpg" alt="An abstract design" width="600" height="450" />
 
 There are of course much more codes to control using images, either manipulating them or their position in a page. Those I'll leave for you to dig in.
 
@@ -98,7 +98,7 @@ The hsl color property has been introduced in CSS3 as an alternative way to spec
     p {
     background-color: #ffffff;
     background-color: hsla(0,100%,100%,0.5);}
-* This code is taken derictly from the source.
+* This code is taken directly from the source.
 
 <hr/>
 
@@ -199,7 +199,7 @@ Use JPEG format for all images that contain a natural scene or photograph where 
 
 <hr/>
 
-That was all for today's notes. Today I used multiple sources two of which were provided by our instructors and one that I found really helpful in explaining how important images are and more effective. I will list them hoping you'll find them as handy as I found them:
+That was all for today's notes. Today I used multiple sources two of which were provided by our instructors and one that I found really helpful in explaining how important images are and more effective. I will list them hoping you'll find them as handy as I did:
 
 * First with the article I added, [Text vs. Images: Which Content Format is Effective?](https://www.easel.ly/blog/text-vs-images-which-content-format-effective/)
 
