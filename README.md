@@ -16,7 +16,7 @@ And here is [my GitHub](https://github.com/umamah1mahmoud) for further informati
 | [4](https://umamah1mahmoud.github.io/code-201-reading-notes/class-04)          |
 | [5](https://umamah1mahmoud.github.io/code-201-reading-notes/class-05)          |
 | [6](https://umamah1mahmoud.github.io/code-201-reading-notes/class-06)          |
-| [7]()          |
+| [7](https://umamah1mahmoud.github.io/code-201-reading-notes/class-07)          |
 | [8]()          |
 | [9]()          | 
 | [10]()         |
