@@ -102,11 +102,16 @@ Liquid layout designs stretch and contract as the user increases or decreases th
 
 | Layout Type | Pros  | Cons  |
 | -------------- | --------------- | -------------|
-| Fixed Width Layout | Pixel values are accurate at controlling size and  positioning of elements. | You can end up with big gaps around the edge of a page.
+| **Fixed Width Layout** | Pixel values are accurate at controlling size and  positioning of elements. | You can end up with big gaps around the edge of a page.
 |    |The designer has far greater control over the appearance and position of items on the page than with liquid layouts. | If the user's screen is a much higher resolution than the designer's screen, the page can look smaller and text can be harder to read. |
 |    |You can control the lengths of lines of text regardless of the size of the user's window. | If a user increases fontsizes, text might not fit into the allotted spaces. |
 |    |The size of an image will always remain the same relative to the rest of the page. | The design works best on devices that have a site or resolution similar to that of  desktop or laptop computers.|
-|Liquid Width Layout | Pages expand to fill the entire browser window so there are no spaces around the page on a large screen. | If you do not control the width of sections of the page then the design can look very different than you intended, with unexpected gaps around certain elements or items squashed together. |
+| **Liquid Width Layout** | Pages expand to fill the entire browser window so there are no spaces around the page on a large screen. | If you do not control the width of sections of the page then the design can look very different than you intended, with unexpected gaps around certain elements or items squashed together. |
 |    | If the user has a small window, the page can contract to fit it without the user having to scroll to the side. | If the user has a wide window, lines of text can become very long, which makes them harder to read. |
 |      | The design is tolerant of users setting font sizes larger than the designer intended (because the page can stretch). | If the user has a very narrow window, words may be squashed and you can end up with few words on each line. |
 
+<hr>
+**Sources:**
+
+* HTML & CSS Design and Build Websites - By: Jon Ducket
+* [Positioning in web design](https://blog.froont.com/positioning-in-web-design/).
