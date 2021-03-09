@@ -1,9 +1,5 @@
-# **[ HTML Layout ]**
-![html example](https://www.ultraedit.com/assets/images/lp/html/html-tag.gif)
-
-If you recalled seeing this image somewhere before. Then you guessed right! and I'm referring to the past reading note from code 102: [Structure web pages with HTML](https://umamah1mahmoud.github.io/reading-notes/HTML).
-
-But in this resding notes I'll give it a little more information. As I'm learing more and more about HTML in general, day after the other.
+# **[ CSS Layout ]**
+In this resding notes I'll give it a little more information. As I'm learing more and more about HTML in general, day after the other.
 
 Now, let's get started!
 <hr/>
