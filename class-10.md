@@ -6,7 +6,7 @@ JavaScript can be hard to learn and everyone makes mistakes when writing it. The
 
 <hr>
 
-## **#1 [ Understandding JS; execution and scopes ]**
+## **#1 [ Understanding JS; execution and scopes ]**
 
 ![js](https://miro.medium.com/max/3840/1*820daPdIGJQYgy_wE2QWWg.jpeg)
 
@@ -58,9 +58,9 @@ At that point, the interpreter stops and looks for exception-handl ing code. )
 ### **Error objects**
 
 Error objects can help you find where your mistakes are and browsers have tools to help you read them. 
-When an Er ror object is created, it will contain the following properties:
+When an Error object is created, it will contain the following properties:
 * name
-* mesages
+* messages
 * fileNumber
 * lineNumber 
 
@@ -82,7 +82,7 @@ There are seven types of built-in error objects in JavaScript:
 
 If you come across an error while writing a script (or when someone reports a bug), you will need to debug the code, track down the source of the error, and fix it. 
 
-A debugging work folw is about deducting. Where is the problem and what is it. 
+A debugging work flow is about deducting. Where is the problem and what is it. 
 
 
 ### **Using Console:**
@@ -141,7 +141,7 @@ Here are a selection of useful tips that might help you when debugging your scri
 
 ### **Common Errors:**
 1. Go back to basics.
-2. Missed/ extra chracters (Which might be just a single space sometimes).
+2. Missed/ extra characters (Which might be just a single space sometimes).
 3. Data type issues.
 
 <hr>
@@ -150,4 +150,4 @@ That was all for this reading notes. I sincerely hope it was helpful enough. You
 
 Also, don't hesitate checking out my informative source:
 
-* Javascript and Jquery Interactive - By: Jon Duckett
+* JavaScript and jQuery Interactive - By: Jon Duckett
