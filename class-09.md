@@ -167,5 +167,3 @@ _**Please note that: Events is a huge topic, that some simple reading notes cann
 Sources:
 * HTML & CSS Design and Build Websites - By: Jon Duckett
 * Javascript and Jquery Interactive - By: Jon Duckett
-
-
