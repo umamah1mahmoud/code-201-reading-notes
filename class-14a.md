@@ -1,6 +1,6 @@
 # **[ CSS Transforms, Transitions, and Animations ]**
 
-![css](https://miro.medium.com/max/960/1*R2IxrEjMVm6QiRYdEo-lvQ.png)
+![css](https://miro.medium.com/max/700/1*CSfCiLLUb14OCSD01se2Pw.gif)
 
 <hr>
 
@@ -32,7 +32,7 @@ We can control many things such as:
 ## **#1 [ Transitions & Animations ]**
 (One evolution with CSS3 was the ability to write behaviors for transitions and animations. With CSS3 transitions you have the potential to alter the appearance and behavior of an element.)
 
-![css](https://freefrontend.com/assets/img/css-animation-examples/css-animation-indoors-or-outdoors.gif)
+![animation](https://freefrontend.com/assets/img/css-animation-examples/css-animation-indoors-or-outdoors.gif)
 
 ### **1. Transitions**
 For a transition to take place, an element must have a change in state, and different styles must be identified for each state.  uch as when it is hovered over, focused on, active, or targeted.
